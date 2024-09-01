@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725199065354
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725199197033
+  login: 1725199168580
+money: '10000'
+lastlocation:
+  world: 86b64835-1457-4386-a77e-b4d812fa526d
+  world-name: Lobby
+  x: 68.00064351824884
+  y: 168.0
+  z: -17.873812032896986
+  yaw: -1.6499929428100586
+  pitch: -1.800000548362732
+last-account-name: AkiraJuanCM
+logoutlocation:
+  world: 22fb61b2-6d82-450c-9562-875cc05e5ff5
+  world-name: Portals
+  x: -1.9635036238984944
+  y: -60.0
+  z: 14.03893335433997
+  yaw: -92.1001205444336
+  pitch: 32.399959564208984
